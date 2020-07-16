@@ -1,0 +1,13 @@
+chess game
+This game has two modes 
+1)player vs player
+2)player vs computer
+you can play by clicking on any piece and
+again on the path which gets highlighted to blue
+square,the game ends when king is either checkmate
+or stalemate.checkmate can be identified when 
+square of king in check turns red and the square
+of pieces attacking turns pink.Stalemate can be
+identified when king's square does not turns red
+but attacking pieces square turns pink. 
+ 
